@@ -8,7 +8,7 @@ Part of Coursework: CSYE 7125 - Advanced Cloud Computing (Distributed Systems)
 * Implemented Flyway for database migrations, orchestrated communication with Istio enhancing architecture, logged with the EFK stack, monitored metrics using Prometheus, & automated processes using Jenkins.
 
 
-## Technologies Resources Used
+## Technologies Used
 
 * **Kubernetes**
 * **Terraform**
